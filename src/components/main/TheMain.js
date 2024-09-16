@@ -65,6 +65,254 @@ const TheMain = () => {
                 Things I’ve built so far
                 </div>
             </div>
+            <div className={style.list_card}>
+                <div className={style.list_card_item}>
+                    <div className={style.list_card_item_image}>
+                        <img src='/assets/image/card-image/Rectangle 4.png' alt='' />
+                    </div>
+                    <div className={style.list_card_item_text}>
+                            <div className={style.list_card_item_tittle}>
+                                Project Tile goes here
+                            </div>
+                            <div className={style.list_card_item_description}>
+                                This is sample project description random things are 
+                                here in description This is sample project lorem ipsum generator 
+                                for dummy content
+                            </div>
+                            <div className={style.list_card_item_tech_stack}>
+                                <span className={style.list_card_card_item_tech_stack_span}>
+                                    Tech stack :
+                                </span> HTML , JavaScript, SASS, React
+                            </div>
+                            <div className={style.list_card_link_wrapper}>
+                                <div className={style.list_card_link_container}>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_link-chain.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            Live Preview
+                                        </a>
+                                    </div>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_github-fill.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            View Code
+                                        </a>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                    </div>
+                </div>
+                <div className={style.list_card_item}>
+                    <div className={style.list_card_item_image}>
+                        <img src='/assets/image/card-image/Rectangle 6.png' alt='' />
+                    </div>
+                    <div className={style.list_card_item_text}>
+                            <div className={style.list_card_item_tittle}>
+                                Project Tile goes here
+                            </div>
+                            <div className={style.list_card_item_description}>
+                                This is sample project description random things are 
+                                here in description This is sample project lorem ipsum generator 
+                                for dummy content
+                            </div>
+                            <div className={style.list_card_item_tech_stack}>
+                                <span className={style.list_card_card_item_tech_stack_span}>
+                                    Tech stack :
+                                </span> HTML , JavaScript, SASS, React
+                            </div>
+                            <div className={style.list_card_link_wrapper}>
+                                <div className={style.list_card_link_container}>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_link-chain.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            Live Preview
+                                        </a>
+                                    </div>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_github-fill.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            View Code
+                                        </a>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                    </div>
+                </div>
+                <div className={style.list_card_item}>
+                    <div className={style.list_card_item_image}>
+                        <img src='/assets/image/card-image/Rectangle 8.png' alt='' />
+                    </div>
+                    <div className={style.list_card_item_text}>
+                            <div className={style.list_card_item_tittle}>
+                                Project Tile goes here
+                            </div>
+                            <div className={style.list_card_item_description}>
+                                This is sample project description random things are 
+                                here in description This is sample project lorem ipsum generator 
+                                for dummy content
+                            </div>
+                            <div className={style.list_card_item_tech_stack}>
+                                <span className={style.list_card_card_item_tech_stack_span}>
+                                    Tech stack :
+                                </span> HTML , JavaScript, SASS, React
+                            </div>
+                            <div className={style.list_card_link_wrapper}>
+                                <div className={style.list_card_link_container}>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_link-chain.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            Live Preview
+                                        </a>
+                                    </div>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_github-fill.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            View Code
+                                        </a>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                    </div>
+                </div>
+                <div className={style.list_card_item}>
+                    <div className={style.list_card_item_image}>
+                        <img src='/assets/image/card-image/Rectangle 12.png' alt='' />
+                    </div>
+                    <div className={style.list_card_item_text}>
+                            <div className={style.list_card_item_tittle}>
+                                Project Tile goes here
+                            </div>
+                            <div className={style.list_card_item_description}>
+                                This is sample project description random things are 
+                                here in description This is sample project lorem ipsum generator 
+                                for dummy content
+                            </div>
+                            <div className={style.list_card_item_tech_stack}>
+                                <span className={style.list_card_card_item_tech_stack_span}>
+                                    Tech stack :
+                                </span> HTML , JavaScript, SASS, React
+                            </div>
+                            <div className={style.list_card_link_wrapper}>
+                                <div className={style.list_card_link_container}>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_link-chain.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            Live Preview
+                                        </a>
+                                    </div>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_github-fill.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            View Code
+                                        </a>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                    </div>
+                </div>
+                <div className={style.list_card_item}>
+                    <div className={style.list_card_item_image}>
+                        <img src='/assets/image/card-image/Rectangle 13.png' alt='' />
+                    </div>
+                    <div className={style.list_card_item_text}>
+                            <div className={style.list_card_item_tittle}>
+                                Project Tile goes here
+                            </div>
+                            <div className={style.list_card_item_description}>
+                                This is sample project description random things are 
+                                here in description This is sample project lorem ipsum generator 
+                                for dummy content
+                            </div>
+                            <div className={style.list_card_item_tech_stack}>
+                                <span className={style.list_card_card_item_tech_stack_span}>
+                                    Tech stack :
+                                </span> HTML , JavaScript, SASS, React
+                            </div>
+                            <div className={style.list_card_link_wrapper}>
+                                <div className={style.list_card_link_container}>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_link-chain.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            Live Preview
+                                        </a>
+                                    </div>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_github-fill.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            View Code
+                                        </a>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                    </div>
+                </div>
+                <div className={style.list_card_item}>
+                    <div className={style.list_card_item_image}>
+                        <img src='/assets/image/card-image/Rectangle 14.png' alt='' />
+                    </div>
+                    <div className={style.list_card_item_text}>
+                            <div className={style.list_card_item_tittle}>
+                                Project Tile goes here
+                            </div>
+                            <div className={style.list_card_item_description}>
+                                This is sample project description random things are 
+                                here in description This is sample project lorem ipsum generator 
+                                for dummy content
+                            </div>
+                            <div className={style.list_card_item_tech_stack}>
+                                <span className={style.list_card_card_item_tech_stack_span}>
+                                    Tech stack :
+                                </span> HTML , JavaScript, SASS, React
+                            </div>
+                            <div className={style.list_card_link_wrapper}>
+                                <div className={style.list_card_link_container}>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_link-chain.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            Live Preview
+                                        </a>
+                                    </div>
+                                    <div className={style.list_card_link_container_item}>
+                                        <div className={style.list_card_link_image}>
+                                            <img src='/assets/image/akar-icons_github-fill.png' alt='' />
+                                        </div>
+                                        <a className={style.list_card_link}>
+                                            View Code
+                                        </a>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                    </div>
+                </div> 
+            </div>
         </main>
     );
 };
