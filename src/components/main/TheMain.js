@@ -20,9 +20,45 @@ const TheMain = () => {
                 <div className={style.techologies_text}>
                     Technologies I’ve been working with recently
                 </div>
-            
             </div>
-            
+            <div className={style.list_tech}>
+                <div className={style.list_tech_item}>
+                    <img src='/assets/image/vs-code-items/vscode-icons_file-type-html.png' alt='main_img' />
+                </div>
+                <div className={style.list_tech_item}>
+                <img src='/assets/image/vs-code-items/vscode-icons_file-type-css.png' alt='main_img' />
+                </div>
+                <div className={style.list_tech_item}>
+                <img src='/assets/image/vs-code-items/vscode-icons_file-type-js-official.png' alt='main_img' />
+                </div>
+                <div className={style.list_tech_item}>
+                    <img src='/assets/image/vs-code-items/logos_react.png' alt='main_img' />
+                </div>
+                <div className={style.list_tech_item}>
+                    <img src='/assets/image/vs-code-items/Vector (1).png' alt='main_img' />
+                </div>
+                <div className={style.list_tech_item}>
+                    <img src='/assets/image/vs-code-items/logos_bootstrap.png' alt='main_img' />
+                </div>
+                <div className={style.list_tech_item}>
+                    <img src='/assets/image/vs-code-items/vscode-icons_file-type-tailwind.png' alt='main_img' />
+                </div>
+                <div className={style.list_tech_item}>
+                    <img src='/assets/image/vs-code-items/logos_sass.png' alt='main_img' />
+                </div>
+                <div className={style.list_tech_item}>
+                    <img src='/assets/image/vs-code-items/logos_git-icon.png' alt='main_img' />
+                </div>
+                <div className={style.list_tech_item}>
+                    <img src='/assets/image/vs-code-items/cib_greensock.png' alt='main_img' />
+                </div>
+                <div className={style.list_tech_item}>
+                    <img src='/assets/image/vs-code-items/vscode-icons_file-type-vscode.png' alt='main_img' />
+                </div>
+                <div className={style.list_tech_item}>
+                    <img src='/assets/image/vs-code-items/akar-icons_github-fill.png' alt='main_img' />
+                </div>   
+            </div>
         </main>
     );
 };
