@@ -2,13 +2,25 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 83.33vw;
+  margin-left: 177px;
 
-.App {
+}
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+/* .App {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 1600px;
   height: 100%;
-}
+} */

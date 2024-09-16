@@ -1,0 +1,10 @@
+.app {
+    width: 83.33vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+
+}

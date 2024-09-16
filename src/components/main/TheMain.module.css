@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "Poppins"; 
+    src: url("../../../public/assets/fonts/Poppins-Medium.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+  } 
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    width: 76.56vw;
+    height: auto;
+    margin-top: 220px;
+}
+.main_block {
+    display: flex;
+    width: 76.56vw;
+    max-height: 350px;
+    top: 320px;
+    left: 177px;
+    padding: 19px 0px 0px 0px;
+    gap: 0px;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.main_block_text {
+    opacity: 0px;
+    font-family: "Poppins";
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: -1px;
+    text-align: left;
+    color: rgba(66, 68, 110, 1);
+    width: 636px;
+    height: 297px;
+    
+}
+.pavan_mg {
+    color: transparent;
+    background-clip: text;
+    background-image: linear-gradient(rgba(19, 176, 245, 1),rgba(202, 36, 180, 1));
+}
+.tech_stack_text_main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 74.56vw;
+    height: auto;
+    font-family: "Poppins";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(66, 68, 110, 1);
+    margin-top: 348px;
+}
+.techologies_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    font-family: "Poppins";
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(102, 102, 102, 1);
+    margin-top: 49px;
+
+}

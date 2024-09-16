@@ -3,13 +3,16 @@
     src: url("../../../public/assets/fonts/DMSans-VariableFont.ttf") format("truetype"); 
     font-style: normal; 
     font-weight: normal; 
-  } 
+  }
+header {
+    width: 76.56vw;
+    height: 59px;
+}
 .header {
     display: flex;
-    
-    width: 1193px;
-    height: 59px;
     margin-top: 41px;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 .logo_wrapper {
     display: flex;
