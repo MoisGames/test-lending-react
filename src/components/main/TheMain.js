@@ -59,6 +59,12 @@ const TheMain = () => {
                     <img src='/assets/image/vs-code-items/akar-icons_github-fill.png' alt='main_img' />
                 </div>   
             </div>
+            <div className={style.tech_stack_text_main}>
+                <div className={style.tech_stack_text}>Projects</div>
+                <div className={style.techologies_text}>
+                Things I’ve built so far
+                </div>
+            </div>
         </main>
     );
 };
