@@ -20,7 +20,7 @@ const TheHeader = () => {
                 <img src="/assets/image/logo-main/Vector-8.png"  alt="main-vector"></img>
                 <img src="/assets/image/logo-main/Vector-9.png"  alt="main-vector"></img>
                 <img src="/assets/image/logo-main/Vector-10.png"  alt="main-vector"></img>
-                <img src="/assets/image/logo-main/Vector-11.png"  alt="main-vector"></img>
+                <img className={style.g} src="/assets/image/logo-main/Vector-11.png"  alt="main-vector"></img>
             </div>
           </div>
           <nav className={style.navigation_bar}>

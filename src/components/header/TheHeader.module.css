@@ -22,7 +22,7 @@ header {
     position: absolute;
     
 }
-.logo_first_row, .logo_first_row {
+.logo_first_row, .logo_first_row, .logo_second_row {
     display: flex;
     flex-direction: row;
 }
@@ -56,4 +56,7 @@ img {
 .logo_header_img {
     width: 30px;
     height: 30px;
+}
+.g {
+    margin-top: 3px;
 }
